@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Max Doodle Art</title>
+</head>
+<body>
+  <h1>Max Doodle Art 🎨</h1>
+  <p>Hey! I'm Max, I draw doodles every day 💫</p>
+  <p>Contact: maxmwesterhof@gmail.com</p>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Max Doodle Art</title>
+  <style>
+    body {
+      margin: 0;
+      background: #0f0f0f;
+      color: white;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .box {
+      max-width: 500px;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+    p {
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Max Doodle Art</h1>
+    <p>Hey! I'm Max, I draw doodles every day 💫</p>
+    <p>Instagram: @max_doodle_art</p>
+  </div>
+</body>
+</html>
